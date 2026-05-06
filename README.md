@@ -1,9 +1,9 @@
 ## Hi there
 
-👋 I’m Sijie
-👀 I’m interested in machine learning
-🌱 I’m currently learning generative ai
-📫 How to reach me: you can find me in 🍎
+- 👋 I’m Sijie
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning generative ai
+- 📫 How to reach me: you can find me in 🍎
 
 <!--
 **thesjhu/thesjhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
