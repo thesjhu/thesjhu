@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 👋 I’m Sijie
 👀 I’m interested in machine learning
