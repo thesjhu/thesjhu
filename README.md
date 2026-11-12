@@ -1,21 +1,14 @@
-## Hi there
+## Sijie Hu
 
-- 👋 I’m Sijie
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning generative ai
-- 📫 How to reach me: you can find me in 🍎
+Finance professional with a background in university financial operations, reporting and audit, and an MS in Information Systems (Data Analytics) from Baruch College. I build Python, SQL and Excel/VBA tools that make financial reporting faster and easier to audit.
 
-<!--
-**thesjhu/thesjhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Selected projects**
 
-Here are some ideas to get you started:
+- [Corporate solvency analysis](https://github.com/thesjhu/corporate-solvency-analysis): Altman Z-Score bankruptcy-risk screening from financial statements
+- [University project and fund tracker](https://github.com/thesjhu/university-project-activities-database-application): Access/SQL database for sponsored projects, funds and sponsors
+- [Loan default risk analysis](https://github.com/thesjhu/loan-data-analysis-for-amalgamated-bank-corp): portfolio summary and default model on 300K+ loans
+- [NVIDIA valuation analysis](https://github.com/thesjhu/nvda): price performance and P/E against the market and peers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** Python (pandas, NumPy, Matplotlib, Seaborn, scikit-learn) · SQL · Excel (Power Pivot, VBA) · Access · Tableau
+
+New York, NY · [LinkedIn](https://linkedin.com/in/thesjhu)
