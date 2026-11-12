@@ -5,9 +5,9 @@ Finance professional with a background in university financial operations, repor
 **Selected projects**
 
 - [Corporate solvency analysis](https://github.com/thesjhu/corporate-solvency-analysis): Altman Z-Score bankruptcy-risk screening from financial statements
-- [University project and fund tracker](https://github.com/thesjhu/university-project-activities-database-application): Access/SQL database for sponsored projects, funds and sponsors
-- [Loan default risk analysis](https://github.com/thesjhu/loan-data-analysis-for-amalgamated-bank-corp): portfolio summary and default model on 300K+ loans
-- [NVIDIA valuation analysis](https://github.com/thesjhu/nvda): price performance and P/E against the market and peers
+- [University project and fund tracker](https://github.com/thesjhu/university-project-fund-tracker): Access/SQL database for sponsored projects, funds and sponsors
+- [Loan default risk analysis](https://github.com/thesjhu/loan-default-risk-analysis): portfolio summary and default model on 300K+ loans
+- [NVIDIA valuation analysis](https://github.com/thesjhu/nvidia-valuation-analysis): price performance and P/E against the market and peers
 
 **Tools:** Python (pandas, NumPy, Matplotlib, Seaborn, scikit-learn) · SQL · Excel (Power Pivot, VBA) · Access · Tableau
 
